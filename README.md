@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tokyo3001&label=Profile%20views&color=0e75b6&style=flat" alt="tokyo3001" /> </p>
 
-- 🔭 I’m currently working at [Voizo.ai](https://www.voizo.ai/)
+- 🔭 I’m currently working at [Apideck](https://www.apideck.com/)
 
 - 🌱 I’m currently learning **NodeJS**
 
